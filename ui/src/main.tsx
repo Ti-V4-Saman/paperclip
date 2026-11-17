@@ -1,4 +1,3 @@
-import "./ptbr";
 import { VoiceCallProvider } from "./components/voice/VoiceCallProvider";
 import { useAccountIdentity } from "./api/companies-query";
 import * as React from "react";
